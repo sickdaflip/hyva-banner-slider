@@ -10,7 +10,7 @@
     "require": {
         "php": "^8.0",
         "hyva-themes/magento2-compat-module-fallback": "*",
-        "mageinic/bannerslider": "1.0.*"
+        "mageinic/banner-slider": "1.0.*"
     },
     "authors": [
         {
